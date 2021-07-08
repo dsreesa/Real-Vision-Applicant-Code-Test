@@ -1,3 +1,8 @@
+Please open the codeTest.py file and run in command-line python3 codeTest.py
+you will see the top ten of the result please read the comments in codeTest.py for the explanation of my code thank you.
+
+
+
 Real Vision Code Test Write a small program that takes as input three pieces of information:
 
 A text file containing a large amount of English-structured content. 
