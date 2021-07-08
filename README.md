@@ -1,5 +1,8 @@
-Please open the codeTest.py file and run in command-line python3 codeTest.py
-you will see the top ten of the result please read the comments in codeTest.py for the explanation of my code thank you.
+Please open the codeTest.py file and run in command-line 
+
+python3 codeTest.py
+
+You will see the top ten of the result please read the comments in codeTest.py for the explanation of my code thank you.
 
 
 
