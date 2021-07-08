@@ -45,5 +45,5 @@ for word in word_list:
 #set the key and value so they can be sorted
 temp = [(value,key) for value,key in word_count_dict.items()]
 temp.sort(key = lambda x:x[1], reverse = True)
-result = temp[:]
+result = temp[:10]
 print(result)
